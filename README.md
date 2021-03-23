@@ -22,7 +22,7 @@
 
 4. **팀 구성**: 5인 구성된 팀
 
-5. **제출 데이터**: 각 Test data 별 예측한 기력값 (github 제출) + Test data 별 예측한 기력 별 확률 (#num_of_test_data * 27(9단+18급))
+5. **제출 데이터**: 각 Test data 별 예측한 기력값 (github 제출) + Test data 별 예측한 기력 별 확률 (email 제출) #num_of_test_data * 27(9단+18급)
 
 6. **대회진행**
 
