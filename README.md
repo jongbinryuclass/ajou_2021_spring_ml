@@ -20,7 +20,7 @@
 
    딥러닝 프레임워크: PyTorch, TensorFlow 권장, 다른 프레임워크도 사용 가능
 
-3. **순위산정:** 바둑 데이터셋의 Top-1 Accuracy
+3. **순위산정:** 바둑 데이터셋 기력예측 Top-1 Accuracy
 
 4. **팀 구성**: 5인 구성된 팀
 
@@ -45,7 +45,7 @@
 
   
 - Total Score가 아직 업데이트되지 않았습니다. 
- - 다음 업데이트 일정은 중간 점수 집계(2021-04-22) 입니다.
+ - 다음 업데이트 일정은 중간 점수 집계(2021-05-07) 입니다.
   
 **현재 랭킹 1위는 team1 입니다. 평균 accuracy는 3.69% 입니다.**
 |Ranking|Name|Penalty|Accuracy(%)|Last Submission|Total Submission Count|Total Score(%)|
