@@ -141,5 +141,4 @@ myLog/
 *.pem
 
 EncryptScript/*
-!EncryptScript/Encrypt.py
 !EncryptScript/sample.txt
