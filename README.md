@@ -85,10 +85,10 @@ Example) Team1인 경우 제출 방법
    `ans.txt` 예시
 
    ```tex
-   1 9d
-   2 2k
-   3 2k
-   4 4k
+   9d
+   2k
+   2k
+   4k
    ```
    
    
@@ -120,10 +120,10 @@ Example) Team1인 경우 제출 방법
 ex) `ans.txt`=(기력 예측값, k=급, d=단), top 1 acc = 98%
 
 ```tex
-1 9d
-2 2k
-3 2k
-4 4k
+9d
+2k
+2k
+4k
 ```
 
 
