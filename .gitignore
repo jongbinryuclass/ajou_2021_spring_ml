@@ -142,3 +142,5 @@ myLog/
 
 EncryptScript/*
 !EncryptScript/sample.txt
+
+.DS_Store
