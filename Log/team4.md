@@ -4,7 +4,7 @@
   
 ## 제출 기록  
 이름 : team4  
-**현재 평균 정확도는 6.117282499999999 입니다. 최고 정확도는 9.18519 입니다.**  
+**현재 평균 정확도는 3.0886235714285712 입니다. 최고 정확도는 9.74074 입니다.**  
 **Day Count는 같은날 제출한 횟수를 의미 합니다. 총 제출 횟수는 100번으로 제한 됩니다.**
 |No|Accuracy(%)|Submission Time|Day Count|
 | :---: | :---: | :---: | :---: |
@@ -20,6 +20,22 @@
 |10|3.62963|2021-05-20 16:54:00.164701+09:00|6|
 |11|9.18519|2021-05-20 19:06:45.863701+09:00|7|
 |12|9.11111|2021-05-20 20:28:51.589002+09:00|8|
+|13|9.74074|2021-05-20 21:36:56.873567+09:00|9|
+|14|3.33333|2021-05-20 22:28:43.961127+09:00|10|
+|15|0|2021-05-21 11:50:50.131616+09:00|You Have Submitted Two Submissions|
+|16|0|2021-05-21 13:22:08.665295+09:00|You Have Submitted Two Submissions|
+|17|0|2021-05-21 13:23:00.858119+09:00|You Have Submitted Two Submissions|
+|18|0|2021-05-21 13:38:33.353248+09:00|You Have Submitted Two Submissions|
+|19|0|2021-05-21 13:47:11.152355+09:00|You Have Submitted Two Submissions|
+|20|0|2021-05-21 13:59:03.554825+09:00|You Have Submitted Two Submissions|
+|21|0|2021-05-21 14:30:09.630227+09:00|You Have Submitted Two Submissions|
+|22|0|2021-05-21 14:59:04.030998+09:00|You Have Submitted Two Submissions|
+|23|0|2021-05-21 15:06:40.435842+09:00|You Have Submitted Two Submissions|
+|24|0|2021-05-21 15:06:59.281925+09:00|You Have Submitted Two Submissions|
+|25|0|2021-05-21 15:10:58.838953+09:00|You Have Submitted Two Submissions|
+|26|0|2021-05-21 15:46:52.169817+09:00|You Have Submitted Two Submissions|
+|27|0|2021-05-21 15:54:13.465407+09:00|You Have Submitted Two Submissions|
+|28|0|2021-05-21 16:00:21.571021+09:00|You Have Submitted Two Submissions|
 
 
 **정확도는 소숫점 5자리 까지 출력됩니다.**
