@@ -4,7 +4,7 @@
   
 ## 제출 기록  
 이름 : team4  
-**현재 평균 정확도는 3.32621 입니다. 최고 정확도는 9.74074 입니다.**  
+**현재 평균 정확도는 3.203017037037037 입니다. 최고 정확도는 9.74074 입니다.**  
 **Day Count는 같은날 제출한 횟수를 의미 합니다. 총 제출 횟수는 100번으로 제한 됩니다.**
 |No|Accuracy(%)|Submission Time|Day Count|
 | :---: | :---: | :---: | :---: |
@@ -34,6 +34,7 @@
 |24|0|2021-05-21 15:06:59.281925+09:00|You Have Submitted Two Submissions|
 |25|0|2021-05-21 15:10:58.838953+09:00|You Have Submitted Two Submissions|
 |26|0|2021-05-21 15:46:52.169817+09:00|You Have Submitted Two Submissions|
+|27|0|2021-05-21 15:54:13.465407+09:00|You Have Submitted Two Submissions|
 
 
 **정확도는 소숫점 5자리 까지 출력됩니다.**
