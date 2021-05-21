@@ -37,16 +37,16 @@
 
 7. **최종 결과 산출 방법:** 중간, 기말 시점의 정확도를 일정 비율로 합쳐서 최종 결과에 반영한다.
 
-8. **확률값 제출:** 중간, 기말 시점의 팀별로 구축한 모델의 "Test data 별 예측한 기력 별 확률"을 저장하여(kimsungeun@ajou.ac.kr) 메일로 제출
+8. **확률값 제출:** 중간, 기말 시점의 팀별로 구축한 모델의 "Test data 별 예측한 기력 별 확률"을 저장하여(kimsungeun@ajou.ac.kr) 메일로 제출 
 
 
 
 ## 퍼블릭 랭킹
 
-  
+
 - Total Score가 아직 업데이트되지 않았습니다. 
  - 다음 업데이트 일정은 중간 점수 집계(2021-05-21) 입니다.
-  
+
 **현재 랭킹 1위는 team13 입니다. 평균 accuracy는 10.54% 입니다.**
 |Ranking|Name|Penalty|Accuracy(%)|Last Submission|Total Submission Count|Total Score(%)|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -94,7 +94,7 @@ Example) Team1인 경우 제출 방법
    
    
 2. 예측 파일(`ans.txt`)과 전달받은 키를 `Encrypt` 폴더에 넣고 `Encrypt.py`를 실행 시켜서 암호화한 예측 파일(`ans.json`)을 생성합니다. 
-생성한 파일을 (`submission/team1`)에 넣고 commit 후 push 를 실행하면 완료됩니다.
+   생성한 파일을 (`submission/team1`)에 넣고 commit 후 push 를 실행하면 완료됩니다.
 
    ```python
    # 1.이메일을 통해서 전달 받은 키 파일의 경로 입력
