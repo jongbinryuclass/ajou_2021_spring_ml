@@ -4,7 +4,7 @@
   
 ## 제출 기록  
 이름 : team1  
-**현재 평균 정확도는 8.02344139240506 입니다. 최고 정확도는 12.18519 입니다.**  
+**현재 평균 정확도는 6.067086132075469 입니다. 최고 정확도는 12.18519 입니다.**  
 **Day Count는 같은날 제출한 횟수를 의미 합니다. 하루 제출 횟수는 5번으로 제한 됩니다.**
 |No|Accuracy(%)|Submission Time|Day Count|
 | :---: | :---: | :---: | :---: |
@@ -87,6 +87,33 @@
 |77|0|2021-06-03 08:28:00.463521+09:00|You have used all chance for this day|
 |78|0|2021-06-03 08:29:47.673833+09:00|You have used all chance for this day|
 |79|0|2021-06-03 08:35:35.881182+09:00|You have used all chance for this day|
+|80|0|2021-06-03 08:38:41.836071+09:00|You have used all chance for this day|
+|81|0|2021-06-03 12:49:18.652686+09:00|You have used all chance for this day|
+|82|0|2021-06-03 13:14:44.860928+09:00|You have used all chance for this day|
+|83|0|2021-06-03 14:24:03.777142+09:00|You have used all chance for this day|
+|84|0|2021-06-03 15:42:50.455161+09:00|You have used all chance for this day|
+|85|0|2021-06-03 15:46:56.055172+09:00|You have used all chance for this day|
+|86|0|2021-06-03 15:50:57.888801+09:00|You have used all chance for this day|
+|87|0|2021-06-03 15:56:29.168822+09:00|You have used all chance for this day|
+|88|0|2021-06-03 16:04:46.604808+09:00|You have used all chance for this day|
+|89|0|2021-06-03 16:10:59.149590+09:00|You have used all chance for this day|
+|90|0|2021-06-03 16:52:08.069241+09:00|You have used all chance for this day|
+|91|0|2021-06-03 17:50:44.302397+09:00|You have used all chance for this day|
+|92|0|2021-06-03 17:53:05.508130+09:00|You have used all chance for this day|
+|93|0|2021-06-03 18:13:28.699714+09:00|You have used all chance for this day|
+|94|0|2021-06-03 18:16:06.615043+09:00|You have used all chance for this day|
+|95|0|2021-06-03 18:30:27.812791+09:00|You have used all chance for this day|
+|96|0|2021-06-03 18:48:46.665923+09:00|You have used all chance for this day|
+|97|0|2021-06-03 19:50:14.857096+09:00|You have used all chance for this day|
+|98|0|2021-06-03 19:54:36.688466+09:00|You have used all chance for this day|
+|99|0|2021-06-03 21:29:27.046087+09:00|You have used all chance for this day|
+|100|0|2021-06-03 21:32:09.912510+09:00|You have used all chance for this day|
+|101|0|2021-06-03 21:46:11.152000+09:00|You have used all chance for this day|
+|102|0|2021-06-03 21:59:21.655629+09:00|You have used all chance for this day|
+|103|0|2021-06-03 22:02:32.496943+09:00|You have used all chance for this day|
+|104|0|2021-06-03 22:27:38.125227+09:00|You have used all chance for this day|
+|105|0|2021-06-03 23:55:19.534150+09:00|You have used all chance for this day|
+|106|9.25926|2021-06-04 00:01:27.473920+09:00|1|
 
 
 **정확도는 소숫점 5자리 까지 출력됩니다.**
