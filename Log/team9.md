@@ -4,7 +4,7 @@
   
 ## 제출 기록  
 이름 : team9  
-**현재 평균 정확도는 7.124931343283582 입니다. 최고 정확도는 11.62963 입니다.**  
+**현재 평균 정확도는 7.0201529411764705 입니다. 최고 정확도는 11.62963 입니다.**  
 **Day Count는 같은날 제출한 횟수를 의미 합니다. 하루 제출 횟수는 5번으로 제한 됩니다.**
 |No|Accuracy(%)|Submission Time|Day Count|
 | :---: | :---: | :---: | :---: |
@@ -142,6 +142,8 @@
 |132|0|2021-06-04 19:56:41.523682+09:00|You have used all chance for this day|
 |133|0|2021-06-04 19:57:59.708955+09:00|You have used all chance for this day|
 |134|0|2021-06-04 19:58:32.621644+09:00|You have used all chance for this day|
+|135|0|2021-06-04 19:59:08.335765+09:00|You have used all chance for this day|
+|136|0|2021-06-04 20:00:10.180557+09:00|You have used all chance for this day|
 
 
 **정확도는 소숫점 5자리 까지 출력됩니다.**
